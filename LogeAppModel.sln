@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogeAppModel", "LogeAppModel\LogeAppModel.csproj", "{EC90F40B-C8C6-4599-BE17-506AF57C2D49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestsLogePro", "UnitTestsLogePro\UnitTestsLogePro.csproj", "{1FE2D773-C5D1-41D3-84EB-48361B2D37A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Git", "Git", "{44389BBA-918F-4DE3-B136-B97F2BE220DA}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC90F40B-C8C6-4599-BE17-506AF57C2D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC90F40B-C8C6-4599-BE17-506AF57C2D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC90F40B-C8C6-4599-BE17-506AF57C2D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC90F40B-C8C6-4599-BE17-506AF57C2D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FE2D773-C5D1-41D3-84EB-48361B2D37A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE2D773-C5D1-41D3-84EB-48361B2D37A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE2D773-C5D1-41D3-84EB-48361B2D37A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE2D773-C5D1-41D3-84EB-48361B2D37A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
